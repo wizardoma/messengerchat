@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412428795521",
+    "project_id": "wizardom-messenger-demo",
+    "storage_bucket": "wizardom-messenger-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412428795521:android:42fd243c2c4c0684a95780",
+        "android_client_info": {
+          "package_name": "com.wizardom.messengerchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412428795521-27826iupssos5nkqe4igbcblpabpdh7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1p2p_qP5y1xMuawVTvCmIlbeEKnCK8dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412428795521-27826iupssos5nkqe4igbcblpabpdh7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
